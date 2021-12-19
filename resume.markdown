@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: resume
 display-title: Andrew J. Bare
 permalink: /resume/
 ---
